@@ -5,6 +5,8 @@
 
 import java.util.*;
 
+//Data structure to be used with the DLL
+
 public class DNode {
     public double eventTime;
     public double eventServiceTime;
